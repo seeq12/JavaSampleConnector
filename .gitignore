@@ -13,6 +13,10 @@
 .m2/
 workspace/
 packages/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 16b92c601efc0b9caeee1e7842b5b6cc47311722
 # Package Files #
 *.jar
 *.war
