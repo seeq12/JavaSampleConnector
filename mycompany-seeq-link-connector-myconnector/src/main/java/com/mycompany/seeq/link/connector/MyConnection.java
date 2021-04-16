@@ -203,6 +203,8 @@ public class MyConnection implements SignalPullDatasourceConnection {
             AssetTreeSingleInputV1 relationship = new AssetTreeSingleInputV1();
             relationship.setParentDataId(ROOT_NODE_DATA_ID);
             relationship.setChildDataId(child.getDataId());
+
+            // commit the relationship to seeq
             this.connectionService.putRelationship(relationship);
             this.connectionService.flushRelationships();
 
