@@ -1,0 +1,9 @@
+com\mycompany\seeq\link\connector\MyConnectionConfigV1.class
+com\mycompany\seeq\link\connector\MyConnector.class
+com\mycompany\seeq\link\connector\MyConnection.class
+com\mycompany\seeq\link\connector\DatasourceSimulator$2.class
+com\mycompany\seeq\link\connector\DatasourceSimulator$Tag.class
+com\mycompany\seeq\link\connector\MyConnectorConfigV1.class
+com\mycompany\seeq\link\connector\DatasourceSimulator$1.class
+com\mycompany\seeq\link\connector\DatasourceSimulator$Waveform.class
+com\mycompany\seeq\link\connector\DatasourceSimulator.class
